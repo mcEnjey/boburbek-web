@@ -64,21 +64,21 @@
 
 # 📊GitHub Stats :
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utkirov2006&count_private=true&show_icons=true&=en&layout=compact&langs_count=10&" alt="Utkirov2006" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Utkirov2006" alt="Utkirov2006" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boburbek-web&count_private=true&show_icons=true&=en&layout=compact&langs_count=10&" alt="boburbek-web" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boburbek-web" alt="boburbek-web" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkirov2006&theme" alt="Utkirov2006" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boburbek-web&theme" alt="boburbek-web" /></p>
  </div>
 
 <h2 align="center">Trophies</h2>
 <div align="center">
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=Utkirov2006)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=boburbek-web)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 
 ### 📈 GitHub Activity Graph:
-[![Utkirov2006's github activity graph](https://activity-graph.herokuapp.com/graph?username=Utkirov2006&theme=react-dark)](https://github.com/Utkirov2006/github-readme-activity-graph)
+[![boburbek-web's github activity graph](https://activity-graph.herokuapp.com/graph?username=boburbek-web&theme=react-dark)](https://github.com/boburbek-web/github-readme-activity-graph)
 
 
     
