@@ -52,7 +52,7 @@
 ### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/uthkirov_blogs)
-[![Youtube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com)
+[![Youtube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/@boburbekutkirov)
 [![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com/BoburbekUthkirov)
 [![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/_boburbek_code/)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-082032?style=for-the-badge&logo=Pinterest&logoColor=red)](https://www.pinterest.com/boburbekutkirov/)
