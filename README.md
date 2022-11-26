@@ -8,7 +8,7 @@
 
 </div>
 
-## Boburbek Uthkirov | Junior Full Stack Developer
+## Boburbek Utkirov | Junior Full Stack Developer
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;)
 ### 
  ### 🛠 &nbsp;Languages and Tools :
