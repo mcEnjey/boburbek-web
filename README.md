@@ -8,7 +8,7 @@
 
 </div>
 
-## Boburbek Utkirov | Junior Full Stack Developer
+## Boburbek Uthkirov | Junior Full Stack Developer
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;)
 ### 
  ### 🛠 &nbsp;Languages and Tools :
@@ -30,6 +30,8 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-082032?style=for-the-badge&logo=Netlify)
 ![VisualStudio](https://img.shields.io/badge/-Vscode-082032?style=for-the-badge&logo=VisualStudio&logoColor=blue)
 
+![Vue.js](https://img.shields.io/badge/-Vue.js-082032?style=for-the-badge&logo=Vue.js)
+![Express](https://img.shields.io/badge/-Express.js-082032?style=for-the-badge&logo=Express)
 ![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git)
 ![Elm](https://img.shields.io/badge/-Elm-082032?style=for-the-badge&logo=elm)
 ![Yarn](https://img.shields.io/badge/-Yarn-082032?style=for-the-badge&logo=yarn)
@@ -38,8 +40,6 @@
 ![Svelte](https://img.shields.io/badge/-Svelte-082032?style=for-the-badge&logo=svelte)
 ![jQuery](https://img.shields.io/badge/-jQuery-082032?style=for-the-badge&logo=jQuery)
 ![Node.js](https://img.shields.io/badge/-Node.js-082032?style=for-the-badge&logo=Node.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-082032?style=for-the-badge&logo=Vue.js)
-![Express](https://img.shields.io/badge/-Express.js-082032?style=for-the-badge&logo=Express)
 ![BackboneJs](https://img.shields.io/badge/-Backbone.js-082032?style=for-the-badge&logo=Backbone.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-082032?style=for-the-badge&logo=MongoDB)
 ![Angular.js](https://img.shields.io/badge/-Angular.js-082032?style=for-the-badge&logo=Angular&logoColor=red)
@@ -53,17 +53,17 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/uthkirov_blogs)
 [![Youtube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/@boburbekutkirov)
-[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com/BoburbekUthkirov)
-[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/_boburbek_code/)
+[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](http://facebook.com/boburbekcode)
+[![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](http://instagram.com/_boburbek_code)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-082032?style=for-the-badge&logo=Pinterest&logoColor=red)](https://www.pinterest.com/boburbekutkirov/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/boburbek-uthkirov-bb4265243/)
 [![Medium](https://img.shields.io/badge/-Medium-082032?style=for-the-badge&logo=Medium)](https://medium.com/@boburbek_code)
-[![Twitter](https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](https://www.twitter.com/Marshmello_1101)
+[![Twitter](https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](http://twitter.com/boburbek_code))
 [![Reddit](https://img.shields.io/badge/-Reddit-082032?style=for-the-badge&logo=Reddit&logoColor=#1DA1F2)](https://www.reddit.com/user/NoElderberry3284)
-[![Tumblr](https://img.shields.io/badge/-Tumblr-082032?style=for-the-badge&logo=Tumblr&logoColor=#1DA1F2)](https://www.tumblr.com/11marshmello11)
-[![Behance](https://img.shields.io/badge/-Behance-082032?style=for-the-badge&logo=Behance&logoColor=#1DA1F2)](https://www.behance.net/boburbeuthkiro)
+[![Tumblr](https://img.shields.io/badge/-Tumblr-082032?style=for-the-badge&logo=Tumblr&logoColor=#1DA1F2)](http://tumblr.com/boburbekcode)
+[![Behance](https://img.shields.io/badge/-Behance-082032?style=for-the-badge&logo=Behance&logoColor=#1DA1F2)](http://behance.net/boburbek_code)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-082032?style=for-the-badge&logo=Dribbble&logoColor=#1DA1F2)](https://dribbble.com/Marshmello_1101)
-[![Odnoklassniki](https://img.shields.io/badge/-Odnoklassniki-082032?style=for-the-badge&logo=Odnoklassniki&logoColor=#1DA1F2)](https://ok.ru/profile/586514121869?utm_campaign=web_share&utm_content=profile)
+[![Odnoklassniki](https://img.shields.io/badge/-Odnoklassniki-082032?style=for-the-badge&logo=Odnoklassniki&logoColor=#1DA1F2)](https://ok.ru/profile/586514121869?**utm_campaign**=web_share&utm_content=profile)
 [![Spotify](https://img.shields.io/badge/-Spotify-082032?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/3146kr2w7et3vyxnqgy47b4o42qe?si=3cd531ebe95f430e)
 ### Contact With Me
 
