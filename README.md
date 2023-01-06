@@ -53,18 +53,19 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/uthkirov_blogs)
 [![Youtube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/@boburbekutkirov)
-[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](http://facebook.com/boburbekcode)
 [![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](http://instagram.com/_boburbek_code)
+[![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](http://facebook.com/boburbekcode)
+[![Twitter](https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](http://twitter.com/boburbek_code)
 [![Pinterest](https://img.shields.io/badge/-Pinterest-082032?style=for-the-badge&logo=Pinterest&logoColor=red)](https://www.pinterest.com/boburbekutkirov/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/boburbek-uthkirov-bb4265243/)
 [![Medium](https://img.shields.io/badge/-Medium-082032?style=for-the-badge&logo=Medium)](https://medium.com/@boburbek_code)
-[![Twitter](https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](http://twitter.com/boburbek_code))
-[![Reddit](https://img.shields.io/badge/-Reddit-082032?style=for-the-badge&logo=Reddit&logoColor=#1DA1F2)](https://www.reddit.com/user/NoElderberry3284)
 [![Tumblr](https://img.shields.io/badge/-Tumblr-082032?style=for-the-badge&logo=Tumblr&logoColor=#1DA1F2)](http://tumblr.com/boburbekcode)
 [![Behance](https://img.shields.io/badge/-Behance-082032?style=for-the-badge&logo=Behance&logoColor=#1DA1F2)](http://behance.net/boburbek_code)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-082032?style=for-the-badge&logo=Dribbble&logoColor=#1DA1F2)](https://dribbble.com/Marshmello_1101)
-[![Odnoklassniki](https://img.shields.io/badge/-Odnoklassniki-082032?style=for-the-badge&logo=Odnoklassniki&logoColor=#1DA1F2)](https://ok.ru/profile/586514121869?**utm_campaign**=web_share&utm_content=profile)
 [![Spotify](https://img.shields.io/badge/-Spotify-082032?style=for-the-badge&logo=Spotify)](https://open.spotify.com/user/3146kr2w7et3vyxnqgy47b4o42qe?si=3cd531ebe95f430e)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-082032?style=for-the-badge&logo=Dribbble&logoColor=#1DA1F2)](https://dribbble.com/Marshmello_1101)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/boburbek-uthkirov-bb4265243/)
+[![Reddit](https://img.shields.io/badge/-Reddit-082032?style=for-the-badge&logo=Reddit&logoColor=#1DA1F2)](https://www.reddit.com/user/NoElderberry3284)
+[![Odnoklassniki](https://img.shields.io/badge/-Odnoklassniki-082032?style=for-the-badge&logo=Odnoklassniki&logoColor=#1DA1F2)](https://ok.ru/profile/586514121869?**utm_campaign**=web_share&utm_content=profile)
+
 ### Contact With Me
 
 ![emailto:boburbek.utkirov10@gmail.com](https://img.shields.io/badge/-Boburbek.utkirov10@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
