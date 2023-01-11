@@ -22,8 +22,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-082032?style=for-the-badge&logo=GitHub)
 ![Netlify](https://img.shields.io/badge/-Netlify-082032?style=for-the-badge&logo=Netlify)
-![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git)
 
+![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-082032?style=for-the-badge&logo=Vue.js)
 ![Express](https://img.shields.io/badge/-Express.js-082032?style=for-the-badge&logo=Express)
 ![MySql](https://img.shields.io/badge/-MySql-082032?style=for-the-badge&logo=MySql)
