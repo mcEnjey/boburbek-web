@@ -17,18 +17,15 @@
 ![HTML](https://img.shields.io/badge/-HTML5-082032?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-082032?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![Sass](https://img.shields.io/badge/-Sass-082032?style=for-the-badge&logo=Sass)
-![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-082032?style=for-the-badge&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-082032?style=for-the-badge&logo=GitHub)
 ![Netlify](https://img.shields.io/badge/-Netlify-082032?style=for-the-badge&logo=Netlify)
-![VisualStudio](https://img.shields.io/badge/-Vscode-082032?style=for-the-badge&logo=VisualStudio&logoColor=blue)
+![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git)
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-082032?style=for-the-badge&logo=Vue.js)
 ![Express](https://img.shields.io/badge/-Express.js-082032?style=for-the-badge&logo=Express)
-![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git)
-
 ![MySql](https://img.shields.io/badge/-MySql-082032?style=for-the-badge&logo=MySql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-082032?style=for-the-badge&logo=PostgreSQL)
 ![jQuery](https://img.shields.io/badge/-jQuery-082032?style=for-the-badge&logo=jQuery)
@@ -36,7 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-082032?style=for-the-badge&logo=MongoDB)
 ![Angular.js](https://img.shields.io/badge/-Angular.js-082032?style=for-the-badge&logo=Angular&logoColor=red)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-082032?style=for-the-badge&logo=TypeScript)
-![Meteor](https://img.shields.io/badge/-Meteor-082032?style=for-the-badge&logo=Meteor)
+
 ### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/uthkirov_blogs)
@@ -49,8 +46,6 @@
 [![Tumblr](https://img.shields.io/badge/-Tumblr-082032?style=for-the-badge&logo=Tumblr&logoColor=#1DA1F2)](http://tumblr.com/boburbekcode)
 [![Behance](https://img.shields.io/badge/-Behance-082032?style=for-the-badge&logo=Behance&logoColor=#1DA1F2)](http://behance.net/boburbek_code)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-082032?style=for-the-badge&logo=Dribbble&logoColor=#1DA1F2)](https://dribbble.com/Marshmello_1101)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/boburbek-uthkirov-bb4265243/)
-
 ### Contact With Me
 
 ![emailto:boburbek.utkirov10@gmail.com](https://img.shields.io/badge/-Boburbek.utkirov10@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
