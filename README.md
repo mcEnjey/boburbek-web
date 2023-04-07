@@ -25,18 +25,13 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-082032?style=for-the-badge&logo=Vue.js)
 ![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-082032?style=for-the-badge&logo=TypeScript)
-### Follow Me
 
+### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/boburbekutkirov)
 [![Youtube](https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=Youtube&logoColor=FF0000)](https://www.youtube.com/@boburbekutkirov)
 [![Instagram](https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](http://instagram.com/boburbekutkirov)
 [![Facebook](https://img.shields.io/badge/-Facebook-082032?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](http://facebook.com/boburbekcode)
 [![Twitter](https://img.shields.io/badge/-Twitter-082032?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)](http://twitter.com/boburbek_code)
-### Contact With Me
-
-![emailto:boburbek.utkirov10@gmail.com](https://img.shields.io/badge/-Boburbek.utkirov10@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
-
-[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/boburbekweb)
 
 # 📊GitHub Stats :
 <div align="center">
